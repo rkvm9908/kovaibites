@@ -11,7 +11,7 @@ dashboard, and delivery partners apply, get approved and fulfil orders from thei
 
 <!-- Add screenshots to /docs and update the paths below -->
 <p align="center">
-  <img src="docs/home.jpg" width="30%" alt="Home" />
+  <img src="docs/home.jpg" width="100%" alt="Home" />
 </p>
 
 ---
